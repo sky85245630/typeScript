@@ -3,7 +3,7 @@ var num1 = 100;
 var num2 = 200.2;
 var num3 = 300;
 var num4 = 400.4;
-//寫這樣也可以
+//寫這樣因為沒有約定他的型別會報錯
 //function add(a,b)
 function add(a, b) {
     var asd = a + b;
