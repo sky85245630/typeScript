@@ -17,7 +17,7 @@ function keypairIf() {
 
 
 
-
+// 這邊比較重要
 interface calIf{
     sum(first:number,second:number):number
 }
